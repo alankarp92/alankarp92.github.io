@@ -3,3 +3,11 @@
 img {
   width:100%;
 }
+
+.email-link{
+  top:13vw;
+  left:32%;
+position:absolute;
+width:15%;
+height:50px;
+}
